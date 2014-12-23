@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Perder el tiempo</string>
+    <string name="hello_world">Â¡Hola, mundo</string>
+    <string name="action_settings">ConfiguraciÃ³n</string>
+    <string name="users_name_edit_text">Su nombre</string>
+    <string name="happy_question">Â¿Eres feliz?</string>
+    <string name="answer_yes_button">SÃ­</string>
+    <string name="answer_no_button">No</string>
+    <string name="hint_pick_me">Llevarnos</string>
+    <string name="hint_no_pick_me">No, me recogiera</string>
+
+</resources>
